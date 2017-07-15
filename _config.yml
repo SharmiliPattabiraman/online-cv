@@ -4,10 +4,10 @@ url: 'http://webjeda.com'
 baseurl: '/online-cv' #change it according to your repository name
 
 
-# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.2-dark green
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.2-dark green 3-green
 #style: styles-2
-style: styles-3
-#style: styles-4
+#style: styles-3
+style: styles-4
 #style: styles-5
 #style: styles-6
 
